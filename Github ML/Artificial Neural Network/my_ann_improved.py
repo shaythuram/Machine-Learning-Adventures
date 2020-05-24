@@ -97,7 +97,7 @@ def build_classifier():
     classifier.add(Dense(output_dim=6,init="uniform",activation="relu"))
     #ouput layer
     classifier.add(Dense(output_dim=1,init="uniform",activation="sigmoid"))
-    #Compiling the ANN,settling the weights, use logarathimic loss for binary output
+    #Compilingthe ANN,settling the weights, use logarathimic loss for binary output
     classifier.compile(optimizer='adam' , loss='binary_crossentropy' , metrics=['accuracy'])    
     #fitting the ANN to the training set
     return classifier

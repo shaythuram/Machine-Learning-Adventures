@@ -16,6 +16,5 @@ Using the RBM modelling techniques I have learnt how to implement the RBM algori
   better documentation is given in the python files
   
 The AutoEncoder:
-  The autoencoder unlike the RBM is directed so it uses different fundamentals from the RBM however, we are still using it 
-  for collabrative filtering and in this case we also use it to help predict numerical values of the ratings that a User would 
+  The autoencoder unlike the RBM is directed so it uses different fundamentals from the RBm. In this case we are carrying                llabrative filtering and in this case we also use it to help predict numerical values of the ratings that a User would 
   give a movie based off of his past prefrences.

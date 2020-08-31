@@ -3,7 +3,7 @@
 
 The Artificial Neural Network:
 
-Using tutorials i have learnt to make an ANN that helps me predict if a particular user is likely stop using the bank's service or not, using the biodata of the uses,full documentation of the code is provides,each essential function has been annotated within the python file.
+Using tutorials I have learnt to make an ANN that helps me predict if a particular user is likely stop using the bank's service or not, using the biodata of the uses,full documentation of the code is provides,each essential function has been annotated within the python file.
 
 
 The Restricted Boltzmann Machine:
@@ -16,5 +16,5 @@ Using the RBM modelling techniques I have learnt how to implement the RBM algori
   better documentation is given in the python files
   
 The AutoEncoder:
-  The autoencoder unlike the RBM is directed so it uses different fundamentals from the RBm. In this case we are carrying                out content-based filtering and  we can use that to help predict numerical values of the ratings that a User would 
+  The autoencoder unlike the RBM is directed so it uses different fundamentals from the RBm. In this case we are carrying out content-based   filtering and  we can use that to help predict numerical values of the ratings that a User would 
   give a movie based off of his past prefrences.

@@ -1,10 +1,10 @@
 # Machine-Learning-Adventures
 
-#######01/01/2020###################
+
 
 
 Decision Trees and Random Forest:
-	Implemented using fastai and sklearn
+Implemented using fastai and sklearn
 
 
 The Artificial Neural Network:
@@ -22,7 +22,7 @@ Using the RBM modelling techniques I have learnt how to implement the RBM algori
   better documentation is given in the python files
   
 The AutoEncoder:
-  The autoencoder unlike the RBM is directed so it uses different fundamentals from the RBM. In this case we are carrying out content-based filtering and  we can use that to help predict numerical values of the ratings that a User would 
+  The autoencoder unlike the RBM is directed so it uses different fundamentals from the RBM. In this case we are carrying out content-based filtering and  we can     use that to help predict numerical values of the ratings that a User would 
   give a movie based off of his past prefrences.
 
 

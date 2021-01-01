@@ -1,8 +1,10 @@
 # Machine-Learning-Adventures
 
 #######01/01/2020###################
+
+
 Decision Trees and Random Forest:
-  Implemented using fastai and sklearn
+	Implemented using fastai and sklearn
 
 
 The Artificial Neural Network:
